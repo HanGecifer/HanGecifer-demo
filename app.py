@@ -41,4 +41,4 @@ if st.button("开始回答"):
                 st.markdown(response.choices[0].message.content)
             except Exception as e:
                 st.error(f"出错了：{e}")
-st.caption("网站开发人：HanGecifer   |   指导老师：南昌航空大学 胡正老师")
+st.caption("网站开发人：HanGecifer)
