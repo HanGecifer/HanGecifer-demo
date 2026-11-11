@@ -43,5 +43,4 @@ if st.button("开始回答"):
                 st.error(f"出错了：{e}")
 
 st.caption("网站开发人：HanGecifer")
-
-st.caption("致谢南昌航空大学 胡正老师指点")
+st.caption("致谢 南昌航空大学 胡正老师指点")
